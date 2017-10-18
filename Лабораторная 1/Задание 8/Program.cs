@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Задание_4
+namespace Задание_8
 {
     class Program
     {
@@ -12,11 +12,8 @@ namespace Задание_4
         {
             String a;
             a = Console.ReadLine();
-            Console.Write("Программирование это");
-            Console.Write(a);
-            Console.Write("!");
-
-
+            Console.Write("SELECT first_name,last_name,group");
+            Console.Write("FROM students WHERE id" + "=" + "'"+a+ "'");
 
         }
     }

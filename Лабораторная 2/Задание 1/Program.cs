@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Задание_4
+namespace Задание_1
 {
     class Program
     {
@@ -12,11 +12,11 @@ namespace Задание_4
         {
             String a;
             a = Console.ReadLine();
-            Console.Write("Программирование это");
-            Console.Write(a);
-            Console.Write("!");
-
-
+            double x;
+            double result;
+            x = double.Parse(a);
+            result = x + 7;
+            Console.WriteLine("{0:F4}",result);
 
         }
     }

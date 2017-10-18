@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Задание_4
+namespace Задание_6
 {
     class Program
     {
         static void Main(string[] args)
         {
-            String a;
-            a = Console.ReadLine();
-            Console.Write("Программирование это");
-            Console.Write(a);
-            Console.Write("!");
+            String A;
+            A = Console.ReadLine();
+            Double a;
+            a = Double.Parse(A);
+            Console.WriteLine("{0:F4}", a);
 
 
 

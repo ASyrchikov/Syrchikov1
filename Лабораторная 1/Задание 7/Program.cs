@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Задание_7
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            String k;
+            k = Console.ReadLine();
+            int K;
+            K = int.Parse(k);
+            Console.WriteLine("\""+K+"\"");
+
+
+                
+        }
+    }
+}
