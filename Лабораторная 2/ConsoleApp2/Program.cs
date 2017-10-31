@@ -10,13 +10,13 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            String a;
-            a = Console.ReadLine();
-            double x;
-            x = double.Parse(a);
-            double result;
-            result = x * Math.PI / 180;
-            Console.WriteLine("{0:F4}", result);
+            String temp;
+            temp = Console.ReadLine();
+            double xInGrad;
+            xInGrad = double.Parse(temp);
+            double xInRad;
+            xInRad = xInGrad * Math.PI / 180;
+            Console.WriteLine("{0:F4}", xInRad);
 
         }
     }
