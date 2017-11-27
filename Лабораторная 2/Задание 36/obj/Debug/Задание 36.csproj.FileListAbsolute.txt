@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\Syrchikov1-master\Syrchikov1-master\Лабораторная 2\Задание 36\bin\Debug\Задание 36.exe.config
+C:\Users\1\Desktop\Syrchikov1-master\Syrchikov1-master\Лабораторная 2\Задание 36\bin\Debug\Задание 36.exe
+C:\Users\1\Desktop\Syrchikov1-master\Syrchikov1-master\Лабораторная 2\Задание 36\bin\Debug\Задание 36.pdb
+C:\Users\1\Desktop\Syrchikov1-master\Syrchikov1-master\Лабораторная 2\Задание 36\obj\Debug\Задание 36.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Syrchikov1-master\Syrchikov1-master\Лабораторная 2\Задание 36\obj\Debug\Задание 36.exe
+C:\Users\1\Desktop\Syrchikov1-master\Syrchikov1-master\Лабораторная 2\Задание 36\obj\Debug\Задание 36.pdb

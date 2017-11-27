@@ -1,0 +1,7 @@
+C:\Users\1\Desktop\Syrchikov1-master\Syrchikov1-master\Лабораторная 2\Задание 33\bin\Debug\Задание 33.exe.config
+C:\Users\1\Desktop\Syrchikov1-master\Syrchikov1-master\Лабораторная 2\Задание 33\bin\Debug\Задание 33.exe
+C:\Users\1\Desktop\Syrchikov1-master\Syrchikov1-master\Лабораторная 2\Задание 33\bin\Debug\Задание 33.pdb
+C:\Users\1\Desktop\Syrchikov1-master\Syrchikov1-master\Лабораторная 2\Задание 33\obj\Debug\Задание 33.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Syrchikov1-master\Syrchikov1-master\Лабораторная 2\Задание 33\obj\Debug\Задание 33.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Syrchikov1-master\Syrchikov1-master\Лабораторная 2\Задание 33\obj\Debug\Задание 33.exe
+C:\Users\1\Desktop\Syrchikov1-master\Syrchikov1-master\Лабораторная 2\Задание 33\obj\Debug\Задание 33.pdb
