@@ -10,6 +10,7 @@ namespace Задание_5
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             String a;
             a = Console.ReadLine();
             Console.WriteLine("начало ");
@@ -26,6 +27,11 @@ namespace Задание_5
             
 
             
+=======
+            Console.WriteLine(Math.PI);
+            Console.WriteLine("{0:F4}\n{1:F4}",Math.PI,Math.E);
+            Console.WriteLine("Значение пи:{0:F4})\n" + "Значение e:{1:F4}", Math.PI, Math.E);
+>>>>>>> 389ea387fb66f6fcd91db3001b1f4ded51c71b4e
 
 
         }

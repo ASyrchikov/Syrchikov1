@@ -10,6 +10,7 @@ namespace Задание_6
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             String a;
             a = Console.ReadLine();
             Console.WriteLine("сила ");
@@ -19,6 +20,16 @@ namespace Задание_6
             String c;
             c = a + b;
             Console.WriteLine(c);
+=======
+            String A;
+            A = Console.ReadLine();
+            Double a;
+            a = Double.Parse(A);
+            Console.WriteLine("{0:F4}", a);
+
+
+
+>>>>>>> 389ea387fb66f6fcd91db3001b1f4ded51c71b4e
         }
     }
 }

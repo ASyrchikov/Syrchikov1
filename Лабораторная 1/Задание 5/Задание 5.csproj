@@ -4,7 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
     <ProjectGuid>{5E454CD2-124A-4837-A6B5-F0FD4FBD39DF}</ProjectGuid>
+=======
+    <ProjectGuid>{D414B987-57DA-4401-ABD7-EFD7565536CF}</ProjectGuid>
+>>>>>>> 389ea387fb66f6fcd91db3001b1f4ded51c71b4e
     <OutputType>Exe</OutputType>
     <RootNamespace>Задание_5</RootNamespace>
     <AssemblyName>Задание 5</AssemblyName>

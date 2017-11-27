@@ -13,11 +13,11 @@ namespace Задание_4
             String a;
             a = Console.ReadLine();
             Console.Write("Программирование это");
-            Console.Write("!");
             Console.Write(a);
+            Console.Write("!");
 
-           
-         
+
+
         }
     }
 }

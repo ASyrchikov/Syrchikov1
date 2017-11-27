@@ -12,6 +12,7 @@ namespace Задание_8
         {
             String a;
             a = Console.ReadLine();
+<<<<<<< HEAD
             Console.WriteLine("шаг ");
             String b;
             b = Console.ReadLine();
@@ -19,6 +20,11 @@ namespace Задание_8
             String c;
             c = a + b;
             Console.WriteLine(c);
+=======
+            Console.Write("SELECT first_name,last_name,group");
+            Console.Write("FROM students WHERE id" + "=" + "'"+a+ "'");
+
+>>>>>>> 389ea387fb66f6fcd91db3001b1f4ded51c71b4e
         }
     }
 }

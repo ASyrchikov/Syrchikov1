@@ -4,14 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-<<<<<<< HEAD
-    <ProjectGuid>{898C988B-60A0-4F17-8C33-D72325410256}</ProjectGuid>
-=======
-    <ProjectGuid>{7FC04527-280C-4B99-BF9C-56BC515D3F55}</ProjectGuid>
->>>>>>> 389ea387fb66f6fcd91db3001b1f4ded51c71b4e
+    <ProjectGuid>{156D3287-3C21-4F06-B268-DB44A6D2B39D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Задание_7</RootNamespace>
-    <AssemblyName>Задание 7</AssemblyName>
+    <RootNamespace>Задание_9</RootNamespace>
+    <AssemblyName>Задание_9</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

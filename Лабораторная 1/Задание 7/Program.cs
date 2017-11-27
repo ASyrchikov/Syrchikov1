@@ -10,6 +10,7 @@ namespace Задание_7
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             String a;
             a = Console.ReadLine();
             Console.WriteLine("курица ");
@@ -19,6 +20,16 @@ namespace Задание_7
             String c;
             c = a + b;
             Console.WriteLine(c);
+=======
+            String k;
+            k = Console.ReadLine();
+            int K;
+            K = int.Parse(k);
+            Console.WriteLine("\""+K+"\"");
+
+
+                
+>>>>>>> 389ea387fb66f6fcd91db3001b1f4ded51c71b4e
         }
     }
 }
